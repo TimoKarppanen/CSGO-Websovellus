@@ -1,0 +1,128 @@
+#title{
+    text-align: center;
+    padding-top: 25px;
+}
+
+#ence{
+    width: 75%;
+    height: auto;
+    left: 20px;
+    position: relative;
+}
+
+#big{
+    width: 50%;
+    height: auto;
+    position: relative;
+    left: 45px;
+    bottom: 10px;
+}
+
+#title-big{
+    text-align: center;
+    padding-top: 13.5px;
+}
+
+#title-mouz{
+    text-align: center;
+    padding-top: 72px;
+}
+
+#logo-mouz{
+    position:relative;
+    top: 30px;
+}
+
+#logo-navi{
+    width: 75%;
+    position: relative;
+    left: 20px;
+    top: 5px;
+}
+
+#title-navi{
+    text-align: center;
+    padding-top: 39.5px;
+}
+
+#liquid-img{
+    width: 60%;
+    position: relative;
+    left: 30px;
+    bottom: 20px;
+}
+
+#title-liquid{
+    text-align: center;
+    padding-top: 7px;
+}
+
+#logo-g2{
+        width: 60%;
+        left: 40px;
+        position: relative;
+        top: 10px;
+}
+
+#title-g2{
+    text-align: center;
+    padding-top: 35px;
+}
+
+#title-astralis{
+    text-align: center;
+    padding-top: 4.5px;
+}
+
+#astralis-img{
+    width: 70%;
+    left: 30px;
+    position: relative;
+    bottom: 10px;
+}
+
+#eg-img{
+    width: 75%;
+    position: relative;
+    left: 25px;
+    top: 30px;
+}
+
+#title-eg{
+    padding-top: 71px;
+    text-align: center;
+}
+
+#vitality-img{
+    width: 65%;
+    left: 30px;
+    position: relative;
+}
+
+#title-vitality{
+    padding-top: 8px;
+    text-align: center;
+}
+
+#title-complexity{
+    padding-top: 21px;
+    text-align: center;
+}
+
+#img-complexity{
+    position: relative;
+    bottom: 20px;
+    width: 70%;
+    left: 20px;
+}
+
+#title-furia{
+    padding-top: 8px;
+    text-align: center;
+}
+
+#furia-img{
+    width: 60%;
+    position: relative;
+    left: 40px;
+}
