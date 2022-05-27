@@ -1,2 +1,2 @@
-![csgo_websovellus](https://user-images.githubusercontent.com/55090890/170692186-d03759ca-3a46-45c5-9ad7-d60f9a392936.PNG)
+![csgo_websovellus](https://user-images.githubusercontent.com/55090890/170692640-e787bf5a-022a-4473-92c8-b724fa078b85.PNG)
 
