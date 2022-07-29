@@ -10,9 +10,9 @@ require 'db_connection.php'; // tämä tiedosto haetaan aina kun halutaan yhdist
 $allUsers = mysqli_query($db_conn,"SELECT * FROM `users`"); /* Valitaan tietokannasta kohde "users" */
 
 if(mysqli_num_rows($allUsers) > 0){                         /* Tarkistetaan rivien mäörä kohteesta `users`, jos se on enemmän kuin 0... */
-    $all_users = mysqli_fetch_all($allUsers,MYSQLI_ASSOC);  /*  noutaa kaikki rivit ja palauttaa tiedot assosiatiivisena arrayna */
+    $all_users = mysqli_fetch_all($allUsers,MYSQLI_ASSOC);  /*  noutaa kaikki rivit ja palauttaa tiedot assosiatiivisena taulukkona */
 
-    echo json_encode(["success"=>1,"users"=>$all_users]);   /* tämän jälkeen ilmoitetaan että tämä onnistui  */
+    echo json_encode(["success"=>1,"users"=>$all_users]);   /* ilmoitetaan onnistuminen */
 }
 else{
     echo json_encode(["success"=>0]);
