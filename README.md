@@ -1,2 +1,1 @@
-![vue_spa](https://github.com/TimoKarppanen/Vue-Simple-SPA/blob/main/vue_spa.PNG)
-
+![Web-sovellus](https://github.com/TimoKarppanen/CSGO-Websovellus/blob/main/Web-sovellus.PNG)
